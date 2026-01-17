@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4130b4fea33426438d21ee22f386135
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Cooked/giantsteak_cooked.prefab
+  uploadId: 201925

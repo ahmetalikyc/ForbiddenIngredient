@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d11e9d3d2f073448818d281789b2270
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/giantsteak.prefab
+  uploadId: 201925

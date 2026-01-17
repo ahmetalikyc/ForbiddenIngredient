@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3550b77f67d3ed4492061284100ff7a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Frozen/wood_square_frozen.prefab
+  uploadId: 201925

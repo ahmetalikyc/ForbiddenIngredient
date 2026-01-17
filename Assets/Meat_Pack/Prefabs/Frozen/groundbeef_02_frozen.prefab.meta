@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c66a5a11432855b45b3aa19f672107eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Frozen/groundbeef_02_frozen.prefab
+  uploadId: 201925

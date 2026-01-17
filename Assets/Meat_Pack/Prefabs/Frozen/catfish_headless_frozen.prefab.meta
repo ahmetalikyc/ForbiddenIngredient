@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a00c8b05921ff54b91aaa7dc1520749
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Frozen/catfish_headless_frozen.prefab
+  uploadId: 201925

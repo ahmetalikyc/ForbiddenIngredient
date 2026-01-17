@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45361d32ce87e9443a19dbe94b14532b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Burnt/rackoflamb_burnt.prefab
+  uploadId: 201925

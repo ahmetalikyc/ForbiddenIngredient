@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 201427744c6fe524489ff6c0d3dd244d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/catfish_head.prefab
+  uploadId: 201925

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ff3f80481367be459971c55e99a3146
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Frozen/meatroll_frozen.prefab
+  uploadId: 201925

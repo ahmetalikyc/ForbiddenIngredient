@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9f7d74ec1200074a8a95d8d76ea3a53
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Cooked/groundbeef_01_cooked.prefab
+  uploadId: 201925

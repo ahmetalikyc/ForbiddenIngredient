@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32c67d7bd5f13d24c951b41a815bb783
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/catfish_headless.prefab
+  uploadId: 201925

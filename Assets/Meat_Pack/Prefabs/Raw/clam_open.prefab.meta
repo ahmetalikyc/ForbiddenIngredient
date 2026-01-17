@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5575e643f3ab8c84096c811eae71949e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/clam_open.prefab
+  uploadId: 201925

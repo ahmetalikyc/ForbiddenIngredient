@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d127b3deecacb2409b7d0cd249ef524
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Cooked/wood_long_cooked.prefab
+  uploadId: 201925

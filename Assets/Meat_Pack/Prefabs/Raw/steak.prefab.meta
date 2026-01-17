@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6bc836b44aba54449d16cec5d9b134e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/steak.prefab
+  uploadId: 201925

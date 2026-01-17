@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97e69f516508b7742bfe8a321ddad296
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/meatroll.prefab
+  uploadId: 201925

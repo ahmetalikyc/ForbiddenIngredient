@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce2fbe2d8556b524a95c4908106116e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/groundbeef_03.prefab
+  uploadId: 201925

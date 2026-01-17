@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3388f88a81158c94b89ce5a859c866bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/catfish_sliced.prefab
+  uploadId: 201925

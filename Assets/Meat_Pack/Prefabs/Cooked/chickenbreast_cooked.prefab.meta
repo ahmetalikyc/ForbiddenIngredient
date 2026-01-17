@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 744166b1755c66c4c8d21e00f4adf583
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Cooked/chickenbreast_cooked.prefab
+  uploadId: 201925

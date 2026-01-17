@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b3678083a747b94491e2f4135a43c2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/fishfillet.prefab
+  uploadId: 201925

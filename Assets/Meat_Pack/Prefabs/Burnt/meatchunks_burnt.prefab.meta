@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a620ea66d7d0eb54e828467203c4100c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Burnt/meatchunks_burnt.prefab
+  uploadId: 201925

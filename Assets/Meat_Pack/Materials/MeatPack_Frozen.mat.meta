@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f42a936e2f5e9a47996b28bd875d34a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Materials/MeatPack_Frozen.mat
+  uploadId: 201925

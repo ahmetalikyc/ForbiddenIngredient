@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42dd3522039e7a242ae6d2ad332dd03c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/chickenbreast.prefab
+  uploadId: 201925

@@ -20,6 +20,6 @@ public class TimeUI : MonoBehaviour
     }
     private void UpdateTime()
     {
-        timeText.text = $"GÜN {TimeManager.Day:00} | {TimeManager.Hour:00}:{TimeManager.Minute:00}";
+        timeText.text = $"DAY {TimeManager.Day:00} | {TimeManager.Hour:00}:{TimeManager.Minute:00}";
     }
 }

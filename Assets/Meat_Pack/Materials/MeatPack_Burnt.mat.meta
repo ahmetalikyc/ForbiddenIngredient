@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efb055e6632d7eb47a93a38c375ed75a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Materials/MeatPack_Burnt.mat
+  uploadId: 201925

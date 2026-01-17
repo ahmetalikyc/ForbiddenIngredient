@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c9c758a48c299d43b75c76f6da1739d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/butcher_knife.prefab
+  uploadId: 201925

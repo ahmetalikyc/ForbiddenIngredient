@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38a99793669fd9049bf138d4261f7c82
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Frozen/smallsteak_frozen.prefab
+  uploadId: 201925

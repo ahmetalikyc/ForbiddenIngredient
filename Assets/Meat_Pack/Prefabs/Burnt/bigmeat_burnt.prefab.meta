@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5388f1b56a2971747afe2331b49cbd6e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Burnt/bigmeat_burnt.prefab
+  uploadId: 201925

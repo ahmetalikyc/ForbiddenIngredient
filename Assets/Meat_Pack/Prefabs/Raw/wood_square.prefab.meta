@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64f083758957fad4a8e8a888626f5762
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/wood_square.prefab
+  uploadId: 201925

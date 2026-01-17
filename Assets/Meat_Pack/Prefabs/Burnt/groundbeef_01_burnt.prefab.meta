@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2292bdf74eee024697cb34ca80d3726
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Burnt/groundbeef_01_burnt.prefab
+  uploadId: 201925

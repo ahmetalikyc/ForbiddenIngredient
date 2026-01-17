@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de58b5b40f4156f40a0ab88e3d50a449
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Cooked/clam_open_cooked.prefab
+  uploadId: 201925

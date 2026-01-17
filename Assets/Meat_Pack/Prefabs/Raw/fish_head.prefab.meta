@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 248b54dd5ef2e364db99928b5a2690ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Raw/fish_head.prefab
+  uploadId: 201925

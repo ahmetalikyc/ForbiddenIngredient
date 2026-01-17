@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc181ae52f899c848a4a03afabe0411c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Burnt/porkchop_burnt.prefab
+  uploadId: 201925

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da8b5950393b20a4589e37fb11a8d86d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Cooked/porkchop_cooked.prefab
+  uploadId: 201925

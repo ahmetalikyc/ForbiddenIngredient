@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c10b33dd8e8e1084fb7508bd66aedb68
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Cooked/wood_square_cooked.prefab
+  uploadId: 201925

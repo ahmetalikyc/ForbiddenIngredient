@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff15a3bdec7d67f4c96a345234c3df63
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100814
+  packageName: Meat Pack
+  packageVersion: 1.0
+  assetPath: Assets/Meat_Pack/Prefabs/Frozen/fish_sliced_frozen.prefab
+  uploadId: 201925
